@@ -33,3 +33,5 @@
   <img align="center" alt="Archaic-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Archaic-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
 </div>
+
+![Snake animation](https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake.svg)
