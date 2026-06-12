@@ -25,10 +25,10 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Archaic-Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)">
-  <img align="center" alt="Denis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Denis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Denis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Denis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Denis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Denis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Archaic-Ts" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)">
+  <img align="center" alt="Archaic-React" height="30" width="40" src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)">
+  <img align="center" alt="Archaic-HTML" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg)">
+  <img align="center" alt="Archaic-CSS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)">
+  <img align="center" alt="Archaic-Python" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)">
+  <img align="center" alt="Archaic-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
