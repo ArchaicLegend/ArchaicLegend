@@ -36,3 +36,5 @@
 </div>
 
 ![Snake animation](https://github.com/ArchaicLegend/ArchaicLegend/blob/output/github-contribution-grid-snake.svg)
+
+<img width="100" height="100" alt="d2a3605d-a862-448a-bc32-1392d0b8a874_belle-lights-emoji" src="https://github.com/user-attachments/assets/6c0d8635-8ab8-48a1-bd9e-587b15bec930" />
