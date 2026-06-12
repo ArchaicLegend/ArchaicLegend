@@ -8,14 +8,19 @@
 <!--
 **ArchaicLegend/ArchaicLegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Desenvolvedor Python-End </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+╰(*°▽°*)╯ Eu estou estudando sobre Desenvolvimento de Sistemas
+(❁´◡`❁) Eu estou programando em Python
+(●'◡'●)Meu e-mail: lazarofelice1989@gmail.com
+
+Código 2:
+
+<div align="center">
+  <a href="https://github.com/denisilvace"> 
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=denisilvace&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denisilvace&layout=compact&langs_count=16&theme=dark" />
+  </a>
+</div>
