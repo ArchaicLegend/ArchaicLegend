@@ -16,8 +16,6 @@ Desenvolvedor Python-End </h3>
 (❁´◡`❁) Eu estou programando em Python
 (●'◡'●)Meu e-mail: lazarofelice1989@gmail.com
 
-Código 2:
-
 <div align="center">
   <a href="https://github.com/denisilvace"> 
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=denisilvace&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
