@@ -1,5 +1,9 @@
 
 
+https://github.com/user-attachments/assets/d8627daf-a813-4540-91d1-bc5ebb4b5082
+
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Olá!+👋;+Sou+Lazaro+Felice+Vieira+Rodrigues!;" />
 </h1>
