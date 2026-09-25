@@ -1,0 +1,31 @@
+1º Uma pesquisa de satisfação apresentou as seguintes notas: 6, 7, 8, 8, 9, 10 e 10.
+Qual é a nota que representa o centro desses resultados?
+
+2º Uma empresa recebeu 500 pedidos durante o mês. 350 foram entregues no prazo e os demais foram entregues com atraso.
+Quantos pedidos foram entregues com atraso?
+
+3º Uma loja registrou a quantidade de produtos vendidos por categoria:
+
+Eletrônicos: 320
+Informática: 250
+Acessórios: 180
+Móveis: 95
+
+Qual categoria representa a maior quantidade de produtos vendidos?
+
+4º Uma empresa possui três filiais. No último mês, elas faturaram:
+
+Filial A: R$ 85.000
+Filial B: R$ 72.000
+Filial C: R$ 93.000
+
+Qual foi a diferença de faturamento entre a filial que mais faturou e a que menos faturou?
+
+5º Uma empresa analisou o número de vendas realizadas por cinco vendedores:
+
+25, 31, 18, 31 e 22.
+
+Qual quantidade de vendas ocorreu com maior frequência?
+
+6º Uma empresa possui 2.000 clientes, sendo 1.200 clientes ativos e os demais inativos.
+Quantos clientes estão inativos?
